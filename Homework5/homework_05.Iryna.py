@@ -56,7 +56,6 @@ result = sorted(result, key=lambda x: x[5])
 
 print(result[:5])
 
-# sorted_numbers = sorted(sliced_list, key=lambda )
 
 # Exists some car data with color, year, engine_volume, car type , price
 # We have search_criteria as tuple of ( year>= , engine_volume >= , price<=)
